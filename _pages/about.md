@@ -7,6 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<span class='anchor' id='about-me'></span>
+{% include_relative includes/intro.md %}
+
+If you like the template of this homepage, welcome to star and fork my open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
+
+{% include_relative includes/news.md %}
+
+{% include_relative includes/pub.md %}
+
+{% include_relative includes/honers.md %}
+
+{% include_relative includes/others.md %}
+
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -25,8 +38,9 @@ redirect_from:
 
 
 我的其他兴趣：
-
-  
+- 摄影
+- 阅读
+- 徒步  
 
 
 <span class='anchor' id='-xl'></span>
@@ -37,7 +51,7 @@ redirect_from:
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+# 📝 论文专利(案例参考)
 
 ### 英文
 ---
@@ -97,11 +111,11 @@ redirect_from:
 
 <span class='anchor' id='-xshy'></span>
 
-# 🏛️ 学术会议
+# 🏛️ 学术会议（案例参考）
 - *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
 
 <span class='anchor' id='-gzsx'></span>
 
-# 💻 工作实习
+# 💻 工作实习（案例参考）
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 
