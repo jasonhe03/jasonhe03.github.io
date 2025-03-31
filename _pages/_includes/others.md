@@ -11,7 +11,6 @@
 - 微信小程序篇（学习中） <a herf='https://www.notion.so/1bb2920d619880589a6eef1e9d4e0257?pvs=4'>目前的目前学习掌握了基础项目结构、配置文件的使用，以及页面开发中的常用组件和交互功能。最近在3月25日学习了样式处理、事件绑定和页面跳转等内容。
 - cs50 Harvard课程 <a herf='https://www.notion.so/cs50-Harvard-1b52920d6198803fa0b6f779baedb641?pvs=4'>
 
-# 💻 项目
 
 
  
