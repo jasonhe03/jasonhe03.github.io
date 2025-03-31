@@ -27,9 +27,9 @@ author:
   location         : "浙江 杭州"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
+  googlescholar    :  #"https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
   email            : "jinsen.he.study@outlook.com"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  researchgate     : 
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jasonhe03"
+  github           : "https://github.com/jasonhe03"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-9658-209X"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
