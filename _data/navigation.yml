@@ -4,7 +4,7 @@ main:
     url: "#about-me"
 
   - title: "学习笔记"
-    url: "#-Notion学习笔记"
+    url: "#-学习笔记"
 
   - title: "项目介绍"
     url: "#-项目"
@@ -13,5 +13,5 @@ main:
     url: "#-荣誉奖项"
 
   - title: "其他功能展示"
-    url: "#-其他功能展示-Generative Model"
+    url: "#-其他功能展示-Generative-Model"
 
