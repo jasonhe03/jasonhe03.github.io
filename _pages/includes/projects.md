@@ -1,20 +1,15 @@
 #  💻 项目
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Litogo </div><img src='images/mystaticweb.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">静态网页</div>
-      <img src='images/mystaticweb.jpg' alt="论文封面" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [litogo仿豆瓣的静态网页] 2024.11  
-    **何金森**,
-    
-[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-    - 论文的主要贡献点描述。
-    - **学术影响**: 你的论文被哪些开源项目、媒体报道等引用。
-    - **工业影响**: 你的论文如何被应用于实际产品或行业。
-  </div>
+[Litogo: 仿豆瓣的电影网站](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
+**何金森**, name,
+
+[**项目链接**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- **练手项目**综合练习了html和css的浮动、盒子模型等布局方式
+- **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
+
+</div>
 </div>
