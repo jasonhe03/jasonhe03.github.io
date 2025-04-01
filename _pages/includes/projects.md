@@ -4,7 +4,7 @@
 <div class='paper-box-text' markdown="1">
 
 [Litogo: 仿豆瓣的电影网站](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
-**何金森**,
+**何金森**
 
 [**项目链接**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
