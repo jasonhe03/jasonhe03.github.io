@@ -1,5 +1,5 @@
-
-我目前是<img src='images/hdu_logo.png' style='width: 2em;'> 杭州电子科技大学圣光级学院自动化专业的大三学生，计划未来前往澳大利亚就读cs方向硕士。
+{: #intro}
+我目前是 <img src='images/hdu_logo.png' style='width: 1em;'> 杭州电子科技大学圣光级学院自动化专业的大三学生，计划未来前往澳大利亚就读cs方向硕士。
 目前，我正在学习前端开发和计算机科学与技术的相关知识。
 
 

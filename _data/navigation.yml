@@ -4,14 +4,14 @@ main:
     url: "#about-me"
 
   - title: "学习笔记"
-    url: "#-学习笔记"
+    url: "#notes"
 
-  - title: "项目介绍"
-    url: "#-项目"
+  - title: "项目"
+    url: "#projects"
 
   - title: "荣誉奖项"
-    url: "#-荣誉奖项"
+    url: "#honors"
 
   - title: "其他功能展示"
-    url: "#-其他功能展示-Generative-Model"
+    url: "#others"
 

@@ -4,6 +4,7 @@
 - *2022.9 - 至今*, <a href="https://www.hdu.edu.cn/"><img class="svg" src="/images/hdu_logo.png" width="23pt"></a> 杭州电子科技大学 圣光机学院, 浙江杭州, 本科 
 
 # 📝 学习笔记
+{: #notes}
 
 - [HTML篇](https://www.notion.so/Javascript-1682920d6198800fb8c1f9dce052ce0e?pvs=4)  系统地学习了HTML的基础知识，包括了HTML的基本语法规范，各种常用标签的使用，从文本标签到表格、列表，再到表单元素。目前已经完成了HTML的基础学习，并通过注册网页案例进行了实践。
 
