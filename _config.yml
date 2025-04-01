@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "何金森的个人网页"
+title                    : "何金森"
 description              : "前端开发学习者"
 repository               : "jasonhe03/jasonhe03.github.io"
 google_scholar_stats_use_cdn : false
