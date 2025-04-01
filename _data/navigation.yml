@@ -3,9 +3,6 @@ main:
   - title: "简介"
     url: "/#about-me"
 
-  - title: "学历"
-    url: "/#-教育"
-
   - title: "学习笔记"
     url: "/#-Notion学习笔记"
 
