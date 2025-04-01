@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "简介"
-    url: "/#about-me"
+    url: "#about-me"
 
   - title: "学习笔记"
-    url: "/#-Notion学习笔记"
+    url: "#-Notion学习笔记"
 
   - title: "项目介绍"
-    url: "/#-项目"
+    url: "#-项目"
 
   - title: "荣誉奖项"
-    url: "/#-荣誉奖项"
+    url: "#-荣誉奖项"
