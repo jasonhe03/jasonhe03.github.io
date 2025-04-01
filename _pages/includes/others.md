@@ -1,5 +1,6 @@
 
-# 📖 教育
+# 📖 教育经历
+
 - *2022.9 - 至今*, <a href="https://www.hdu.edu.cn/"><img class="svg" src="/images/hdu_logo.png" width="23pt"></a> 杭州电子科技大学 圣光机学院, 浙江杭州, 本科 
 
 # 📝 Notion学习笔记
