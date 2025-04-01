@@ -10,7 +10,7 @@ main:
     url: "#projects"
 
   - title: "荣誉奖项"
-    url: "#honors"
+    url: "#honor"
 
   - title: "其他功能展示"
     url: "#others"
