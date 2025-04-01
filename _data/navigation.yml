@@ -1,13 +1,16 @@
 # main links links
 main:
   - title: "简介"
-    url: "/zh-cn/#intro"
+    url: "/#about-me"
 
   - title: "学历"
-    url: "/zh-cn/#others"
+    url: "/#-教育"
+
+  - title: "学习笔记"
+    url: "/#-Notion学习笔记"
 
   - title: "项目介绍"
-    url: "/zh-cn/#projects"
+    url: "/#-项目"
 
   - title: "荣誉奖项"
-    url: "/zh-cn/#honors"
+    url: "/#-荣誉奖项"
