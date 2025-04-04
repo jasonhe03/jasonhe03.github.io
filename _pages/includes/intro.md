@@ -1,7 +1,9 @@
 {: #intro}
-我目前是 <img src='images/hdu_logo.png' style='width: 1em;'> 杭州电子科技大学圣光级学院自动化专业的大三学生，计划未来前往澳大利亚就读cs方向硕士。
-目前，我正在学习前端开发和计算机科学与技术的相关知识。
+我目前是 <img src='images/hdu_logo.png' style='width: 1em;'>葛瑞泉，男，博士，副教授，硕士生导师，中国计算机学会、IEEE学会会员。
 
+主要研究方向：图像处理, 健康大数据, AI制药, 生物信息学，自然语言处理相关技术及应用, AI for Life。
+
+已在相关领域发表SCI/EI检索论文60余篇，申请发明专利10余项。主持国家自然科学基金项目1项，浙江省自然科学基金探索项目1项，作为主要成员参与国家自然科学重点基金-区域创新联合基金、科技部重点研发等项目3项，浙江省尖兵重大项目1项，浙江省自然科学基金项目1项。多次参加国内外学术交流及国际学术研讨会，担任SCI 期刊中科院2区Interdisciplinary Sciences: Computational Life Sciences青年编辑， Frontiers in Genetics副编辑，多个SCI 期刊和领域会议审稿人。
 
 我的研究和兴趣领域包括：
 

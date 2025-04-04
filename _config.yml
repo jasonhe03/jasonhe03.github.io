@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "何金森"
-description              : "前端开发学习者"
+title                    : "葛瑞泉"
+description              : "副教授"
 repository               : "jasonhe03/jasonhe03.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -15,20 +15,20 @@ google_scholar_stats_use_cdn : true
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   : 56D1B3DBCF345410DA9431AFE01788E7 # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification :  #fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   : #56D1B3DBCF345410DA9431AFE01788E7 # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "何金森"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "葛瑞泉"
+  avatar           : "images/android-chrome-192x192.png"
   bio              : "杭州电子科技大学"
   location         : "浙江 杭州"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    :  #"https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "jinsen.he.study@outlook.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Moa5XSkAAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "gespringhdu.edu.cn"
   researchgate     : 
   uri              : 
   bitbucket        :
@@ -37,10 +37,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jasonhe03"
+  github           : 
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/dw1nd_orz"
+  instagram        : 
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
