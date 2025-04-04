@@ -3,15 +3,15 @@ main:
   - title: "简介"
     url: "#about-me"
 
-  - title: "学习笔记"
-    url: "#notes"
+  - title: "新闻"
+    url: "#news"
 
-  - title: "项目"
+  - title: "出版"
     url: "#projects"
 
   - title: "荣誉奖项"
     url: "#honor"
 
-  - title: "其他功能展示"
+  - title: "其他"
     url: "#others"
 

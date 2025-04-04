@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "葛瑞泉"
-description              : "副教授"
+description              : "图像处理，自然语言处理，健康大数据挖掘"
 repository               : "jasonhe03/jasonhe03.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : True
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "葛瑞泉"
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "杭州电子科技大学"
+  bio              : "副教授"
   location         : "浙江 杭州"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
