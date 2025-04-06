@@ -4,8 +4,4 @@
 
 待填充
 
-- *2024.03*: 🎉 Two papers are accepted by ICLR 2024
-- *2023.05*: 
-- *2023.01*: 
-- *2023.01*:
-- *2022.02*: 
+- *2025.02*: 🎉 A papers are accepted by Knowledge Based System
