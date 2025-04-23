@@ -5,6 +5,9 @@ main:
 
   - title: "新闻"
     url: "#news"
+  
+  - title: "代表性成果"
+    url: "#achievements"
 
   - title: "论文"
     url: "#pub"
@@ -14,6 +17,10 @@ main:
 
   - title: "其他"
     url: "#others"
+
+   -title: "合作"
+    url: "#collaboration"
+
 
 
 
