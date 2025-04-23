@@ -18,7 +18,7 @@ main:
   - title: "其他"
     url: "#others"
 
-   -title: "合作"
+  - title: "合作"
     url: "#collaboration"
 
 
